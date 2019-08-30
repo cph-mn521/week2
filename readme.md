@@ -25,7 +25,7 @@ Du bliver linet til tomcat på serveren.
 
 Her er til [nginx](http://www.matheradical.dk:80/) 
 
-jeg har så deployet min solutions :)
+jeg har så deployet mine solutions :)
 
 [Index](http://www.matheradical.dk:8080/w2/)
 
