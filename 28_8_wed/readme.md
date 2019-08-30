@@ -1,20 +1,20 @@
 
 
-## Monitoring HTTP Headers 1
+## 1) Monitoring HTTP Headers 1
 
+### Observe and explain each of the values monitored (use view source to see the plain messages).
+
+Jeg ztrl+shft+j og går til network taben. Her ser jeg 2 requests.
 Ser index filen med hello world! 
 og Favicon som er tomcats logoet som icon.
 
 
-### Rename the file to index1.html
 
 Efter jeg ændre til index1 og pejer til index1.html ser jeg det samme.
 
 ## 2) Monitoring HTTP Headers 2
 
-### Add an image to the page
-### Add an external style sheet to the page <link rel="stylesheet" type="text/css" href##="myStyle.css">
-### Reload the page again, observe the request(s) being made, and explain the purpose of the connection header.
+### explain the purpose of the connection header.
 
 Holder styr på hvorledes forbindelsen skal forblive åben efter transaktionen er færdig. Med fx. keep-alive er forbindelse persistent og så kan der lave felere request til samme server.
 
