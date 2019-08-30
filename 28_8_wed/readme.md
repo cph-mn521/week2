@@ -61,7 +61,8 @@ eller:
 
 5xx: I f$*%ed up
 
-## 5)
+## 5) Get HTTP Request Headers on the Server
+
 Done did the thing.
 
 ## 6) Get/Post-parameters
