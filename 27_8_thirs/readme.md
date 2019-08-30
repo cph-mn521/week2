@@ -1,8 +1,6 @@
 
 
-### 27:
-
-
+### Besvarelser på spørgsmålene til de 27/8
 
 ## What is your public IP address right now, and how did you find it?
 
@@ -12,10 +10,11 @@ til public bruger jeg* [ip4.me](http://ip4.me/)
 
 
 Jeg finder min IP ved at åbne powershell og skrive ipconfig.
-   IPv4 Address. . . . . . . . . . . : 10.50.131.77
+
+IPv4 Address. . . . . . . . . . . : 10.50.131.77
 
 
-### What is special bout these ranges:
+### What is special bout these ranges?
 
 ## 10.0.0.0 – 10.255.255.255 
 Class A – 24 bit blok
