@@ -27,11 +27,11 @@ Her er til [nginx](http://www.matheradical.dk:80/)
 
 jeg har så deployet min solutions :)
 
-http://www.matheradical.dk:8080/w2/
-http://www.matheradical.dk:8080/w2/redirect
-http://www.matheradical.dk:8080/w2/ups
-http://www.matheradical.dk:8080/w2/reqheaders
-http://www.matheradical.dk:8080/w2/getpost.html
-http://www.matheradical.dk:8080/w2/sescook
-http://www.matheradical.dk:8080/w2/CookieDemo
+[Index](http://www.matheradical.dk:8080/w2/))
+[Redirect (3xx)](http://www.matheradical.dk:8080/w2/redirect)
+[5xx](http://www.matheradical.dk:8080/w2/ups)
+[Headers](http://www.matheradical.dk:8080/w2/reqheaders)
+[Get og Post](http://www.matheradical.dk:8080/w2/getpost.html)
+[Session demo](http://www.matheradical.dk:8080/w2/sescook)
+[Cookie](http://www.matheradical.dk:8080/w2/CookieDemo)
 
