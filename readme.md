@@ -1,24 +1,24 @@
-## Uge 2 readme:
+### Uge 2 readme:
 
 Alle opgaver er gennemført.
 
 Opgaverne omhandlede Web protocol og handlede meget om request og responses. Hvilket er en hjørnesten i hvordan man håndtere ajax scripting og generelt TCP/IP protocol.
 
 
-### Tirsdag:
+## Tirsdag:
 
 Tirsdags opgaverne kan findes i [her](https://github.com/cph-mn521/week2/tree/master/27_8_thirs) 
 
 De hele er skrevet ind i en readme fil, så det burde være let at læse og ikke kræve noget download.
 
 
-### Onsdag:
+## Onsdag:
 
 Onsdags opgaven kan findes [her](https://github.com/cph-mn521/week2/tree/master/28_8_wed) 
 
 Der er medført en readme der besvare lærings målene for opgaven.
 
-### Fredag
+## Fredag
 
 Jeg har sat nginx op, og du kan finde min servlet på [matheradical.dk](http://www.matheradical.dk:8080/) 
 Du bliver linet til tomcat på serveren.
