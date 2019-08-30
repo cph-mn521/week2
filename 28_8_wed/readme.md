@@ -29,7 +29,7 @@ Derefter kommer resourcen.
 
 Når jeg refresher er der ikke noget redirect svar, da jeg er på den rigtige resource nu.
 
-## 4
+## 4) Status Codes
 ### 4a) Status Codes (5xx)
 
 Fordi jeg har ramt en singularity issue ved at dividere med 0, kaster serveren en kode 500 fordi servletten har kastet en exception.
