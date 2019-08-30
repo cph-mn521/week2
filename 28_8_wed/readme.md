@@ -40,17 +40,25 @@ gode gamle kode 404, den resource existere ikke, og derfor kommer der en 404 til
 
 ### 4c) Status Codes - Ranges
 
+
 2xx er succes coder for alle succefulde requests
+
 3xx er redirects, dvs at de pejer til det man leder efter
+
 4xx er client side errors, så man har bedt om noget forkert.
+
 5xx er server errors. Dem skal man jo helst undgå.
 
 eller:
 
 1xx: hold on
+
 2xx: here you go
+
 3xx: go away
+
 4xx: you f$*%ed up
+
 5xx: I f$*%ed up
 
 ## 5)
