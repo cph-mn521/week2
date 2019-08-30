@@ -12,9 +12,9 @@ Efter jeg ændre til index1 og pejer til index1.html ser jeg det samme.
 
 ### 2) Monitoring HTTP Headers 2
 
-##Add an image to the page
-##Add an external style sheet to the page <link rel="stylesheet" type="text/css" href##="myStyle.css">
-##Reload the page again, observe the request(s) being made, and explain the purpose of the connection header.
+## Add an image to the page
+## Add an external style sheet to the page <link rel="stylesheet" type="text/css" href##="myStyle.css">
+## Reload the page again, observe the request(s) being made, and explain the purpose of the connection header.
 
 Holder styr på hvorledes forbindelsen skal forblive åben efter transaktionen er færdig. Med fx. keep-alive er forbindelse persistent og så kan der lave felere request til samme server.
 
