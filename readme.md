@@ -27,7 +27,7 @@ Her er til [nginx](http://www.matheradical.dk:80/)
 
 jeg har så deployet min solutions :)
 
-[Index](http://www.matheradical.dk:8080/w2/))
+[Index](http://www.matheradical.dk:8080/w2/)
 [Redirect (3xx)](http://www.matheradical.dk:8080/w2/redirect)
 [5xx](http://www.matheradical.dk:8080/w2/ups)
 [Headers](http://www.matheradical.dk:8080/w2/reqheaders)
